@@ -5,8 +5,8 @@
 Given a log file which contains the visits to a particular web
 and the ip of the visitor, create a ruby script which accepts a log file as an argument and return a list of organize data, in this case:
 
-List of the most visited webs ordered from high to low.
-List of the unique views ordered high to low.
+- List of the most visited webs ordered from high to low.
+- List of the unique views ordered high to low.
 
 ## SETUP THE PROJECT.
 
