@@ -49,7 +49,7 @@ Once you have Ruby 2.7.1 in your system :
   $ ./bin/web_info.rb webserver.log
   ```
 
-Of course the the script is ready to accept any log file in the same format.
+Of course the script is ready to accept any other log file in the same format.
 
 ## APPROACH AND METHODOLOGY.
 
