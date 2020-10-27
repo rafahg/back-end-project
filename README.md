@@ -68,7 +68,7 @@ Of course the script is ready to accept any other log file in the same format.
   - DataManager class is in charge of processing the data and get it ready for the display class.
   - PrintData is the class in charge of displaying the data for the script user.
 
-  Every class has coded in a separate file in the lib folder and has its testing suite in the spec folder.
+  Every class has been coded in a separate file in the lib folder and has its testing suite in the spec folder.
 
 ### Next implementations.
 
