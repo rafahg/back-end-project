@@ -18,8 +18,8 @@ To install Ruby follow this link:
 
 or in much more intuitive way go to:
 
- [how to prepare a Ruby environment](https://www.preparetocode.io/) and follow the instructions. Be aware that the instructions are good enough but a little bit old. Just be ready to install the correct Ruby version. (2.7.1)
-
+ [How to prepare a Ruby environment](https://www.preparetocode.io/) and follow the instructions. Be aware that the instructions are good enough but a little bit old. Just be ready to install the correct Ruby version. (2.7.1).
+ 
 Once you have Ruby 2.7.1 in your system :
 
  Clone this repository 
