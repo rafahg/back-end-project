@@ -45,6 +45,13 @@ Once you have Ruby 2.7.1 in your system :
     ```
   
   To run the script and obtain the result in the CLI, just run in the root:
+  
+   - Giving permissions to the file, to make it executable.
+  ```
+  $ chmod +x ./bin/web_info.rb
+  ```
+   - Run the script with the file as a parameter.
+  
   ```
   $ ./bin/web_info.rb webserver.log
   ```
